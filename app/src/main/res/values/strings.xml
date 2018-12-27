@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">UFL Scheduler</string>
+    <string name="title_schedule_list">  Schedule List</string>
+    <string name="title_create_schedule">  Create Schedule</string>
+    <string name="title_update_schedule">  Update Schedule</string>
+    <string name="title_schedule_details">  Schedule Details</string>
+    <string name="action_exit">Exit</string>
+    <string name="col">:</string>
+    <string name="client_name_title">Client Name</string>
+    <string name="title_loading">Loading...</string>
+    <string name="title_exit_dialog">Do you want to exit?</string>
+    <string name="dialog_confirm_text">YES</string>
+    <string name="dialog_cancel_text">NO</string>
+    <string name="start_date_hint">Start Date(dd/MM/yyyy)</string>
+    <string name="start_time_hint">Start Time(hh:mm a)</string>
+    <string name="end_date_hint">End Date(dd/MM/yyyy)</string>
+    <string name="end_time_hint">End Time(hh:mm a)</string>
+    <string name="create_schedule_title">Create Schedule</string>
+    <string name="update_schedule_title">Update Schedule</string>
+    <string name="start_date_time_title">Start At</string>
+    <string name="end_date_time_title">End At</string>
+    <string name="latitude_title">Latitude</string>
+    <string name="longitude_title">Longitude</string>
+    <string name="address_title">Address</string>
+    <string name="preference_file_key" translatable="false">scheduler_shared_key</string>
+    <string name="db_select_conflict_with_previous_schedule_query_template" translatable="false">SELECT * FROM %1$s WHERE %2$s BETWEEN %3$d AND %4$d"</string>
+    <string name="enter_client_name_empty">Client Name Can\'t be Empty</string>
+    <string name="enter_start_date_empty">Start Date Can\'t be Empty</string>
+    <string name="enter_invalid_date">Invalid Date or Date Format</string>
+    <string name="enter_invalid_time">Invalid Time or Time Format</string>
+    <string name="enter_start_time_empty">Start Time Can\'t be Empty</string>
+    <string name="enter_end_date_empty">End Date Can\'t be Empty</string>
+    <string name="enter_end_time_empty">End Time  Can\'t be Empty</string>
+    <string name="text_loading">Loading…</string>
+    <string name="text_finished">Finished…</string>
+    <string name="duration_title">Duration</string>
+    <string name="network_error_title">No Network!!!</string>
+    <string name="network_error_message"><![CDATA[Please check your network connection & try again.]]></string>
+    <string name="ok_title">OK</string>
+    <string name="date_time_error_title">Date Time Error!!!</string>
+    <string name="schedule_duration_error_message">Schedule End Date Time Can\'t before Start Date Time</string>
+    <string name="start_date_time_error_message">Schedule Start Date Time Can\'t before Current Date Time</string>
+    <string name="end_date_time_error_message">Schedule End Date Time Can\'t before Current Date Time</string>
+    <string name="conflict_error_title">Conflict!!!</string>
+    <string name="conflict_error_message">This Schedule is making conflict with previous one.</string>
+    <string name="create_new_schedule_tutorial_message">Press This to Create New Schedule…</string>
+    <string name="update_this_schedule_tutorial_message">Press This to Update This Schedule…</string>
+    <string name="empty_schedule_list_message">There is no schedule listed</string>
+
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_color">#D10000</color>
+    <color name="primary_color_dark">#B50000</color>
+    <color name="accent">#ef2d00</color>
+
+    <color name="secondary_color">#545251</color>
+    <color name="secondary_color_dark">#3B3836</color>
+    <color name="secondary_color_semi_dark">#6E6D6D</color>
+    <color name="tutorial_background_color">#99000000</color>
+</resources>
+
